@@ -17,3 +17,6 @@ I build full-stack applications with clean code, continuously improving my progr
 - 💼 LinkedIn: [ahmadabdullah-dev](https://www.linkedin.com/in/ahmadabdullah-dev/)
 - 💻 GitHub: [ahmadabdullah-dev](https://github.com/ahmadabdullah-dev)
 - 📍 Istanbul, Türkiye — Open to remote and relocation after graduation (July 2027)
+
+## Consistency Over Motivation
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmadabdullah-dev&theme=whatsapp-dark&border_radius=50&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
